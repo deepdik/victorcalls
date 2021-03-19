@@ -7,7 +7,7 @@ django-cors-headers==2.4.0
 django-filter==2.0.0
 django-filters==0.2.1
 django-rest-framework==0.1.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 facebookads==2.11.4
 Flask==1.0.2
 Flask-Excel==0.0.7
