@@ -23,7 +23,7 @@ psycopg2==2.7.5
 pyexcel==0.5.9.1
 pyexcel-io==0.5.9.1
 pyexcel-webio==0.1.4
-PyJWT==1.6.4
+PyJWT==2.4.0
 python-dateutil==2.7.3
 pytz==2018.5
 requests==2.19.1
